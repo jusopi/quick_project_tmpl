@@ -1,0 +1,7 @@
+{
+	"port": 2112,
+	"ui": {
+		"port": 2113
+	},
+	"server": { "baseDir": "./src" }
+}

@@ -1,0 +1,8 @@
+.idea/
+.nvmrc
+.project
+/.project
+tmp
+build
+node_modules
+npm-debug.log
